@@ -10,7 +10,7 @@ couple of days with plenty of hands-on tutorials, on the last 1 1/2 days of the 
 popular (Python) software packages for quantum physics.
 
 
-This workshop is jointy organised by Yuval, Virginia, Alan, and Lachlan, and is funded by the Australian Research Council's
+This workshop is jointly organised by Yuval, Virginia, Alan, and Lachlan, and is funded by the Australian Research Council's
 Centre of Engineered Quantum Systems (EQUS).
 
 
